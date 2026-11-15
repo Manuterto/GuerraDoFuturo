@@ -1,8 +1,9 @@
 # Proposta Inicial do Jogo
 
-Este documento deve ser preenchido pelo grupo na etapa inicial do projeto.
+O projeto consiste em um jogo 2D de ação e progressão lateral (side-scroller shooter) desenvolvido em Python com a biblioteca Pygame. 
+Ambientado em um mundo pós-apocalíptico dominado por uma Inteligência Artificial hostil, o jogador controla um sobrevivente que precisa avançar por um cenário em ruínas e atirar para destruir ondas de robôs inimigos. O jogo utiliza mecânicas diretas e viáveis para o prazo do projeto — movimentação horizontal, pulo simples, disparos em linha reta, sistema de colisões, pontuação e controle de vidas — garantindo uma experiência dinâmica e funcional. 
 
-A proposta deve apresentar uma ideia simples, clara e viável para ser desenvolvida com **Python e Pygame** dentro do prazo disponível. Consulte o enunciado publicado no Canvas para conhecer o eixo temático e as orientações vigentes.
+
 
 ## 1. Nome provisório do jogo
 Nome: Guerra das Máquinas
@@ -20,7 +21,8 @@ Nome 4: Davi Alves Franco Gomes
 #3. Tema escolhido
 Tema: Mundo Pós-Apocalíptico e Rebelião das Máquinas (Inteligência Artificial hostil).
 
-Como esse tema se relaciona com o jogo? O tema define diretamente os obstáculos e a progressão da partida: o jogador enfrenta ondas de robôs autônomos coordenados por uma IA central que tomou o planeta. Para avançar pelo território devastado e sobreviver, é preciso gerenciar disparos e eliminar os sentinelas mecânicos que bloqueiam o caminho até o núcleo de controle.
+Como esse tema se relaciona com o jogo?
+O tema define diretamente os obstáculos e a progressão da partida: o jogador enfrenta ondas de robôs autônomos coordenados por uma IA central que tomou o planeta. Para avançar pelo território devastado e sobreviver, é preciso gerenciar disparos e eliminar os sentinelas mecânicos que bloqueiam o caminho até o núcleo de controle.
 
 #4. Tipo de jogo
 Tipo escolhido: Jogo de tiro e progressão lateral (Run and Gun / Side-Scroller Shooter 2D).
@@ -68,7 +70,8 @@ Dificuldade 2: Controlar o tempo de surgimento dos robôs e o aumento gradual da
 Dificuldade 3: Organizar e juntar o código do grupo usando o GitHub.
 
 #13. Escopo mínimo para a entrega final
-Escopo mínimo: Uma tela jogável funcional contendo o personagem que anda para frente/trás e atira, um tipo básico de robô inimigo surgindo pela direita, detecção de colisão (tiro destrói robô; robô tira vida do jogador), contagem funcional de vidas e pontos, além de telas simples de Vitória e Game Over.
+Escopo mínimo:
+Uma tela jogável funcional contendo o personagem que anda para frente/trás e atira, um tipo básico de robô inimigo surgindo pela direita, detecção de colisão (tiro destrói robô; robô tira vida do jogador), contagem funcional de vidas e pontos, além de telas simples de Vitória e Game Over.
 
 #14. Possíveis melhorias, caso haja tempo
 Melhoria 1: Adicionar efeitos sonoros de tiros, explosões de robôs e trilha sonora de fundo pós-apocalíptica.
